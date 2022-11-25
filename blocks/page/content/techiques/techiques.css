@@ -1,0 +1,11 @@
+.techiques {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 80%;
+  padding-top: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  height: auto;
+}
