@@ -1,0 +1,13 @@
+.khan__bay-link {
+  line-height: 1.15;
+  font-size: 30px;
+  margin-left: 48px;
+  color: #2f80ed;
+  text-decoration: none;
+  height: 35px;
+}
+
+.khan__bay-link:hover {
+  opacity: .6;
+  transition: .2s;
+}
